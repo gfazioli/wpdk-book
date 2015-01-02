@@ -21,4 +21,5 @@
 * Javascript
    * [jQuery integration](jquery_integration.md)
    * [Actions and Filters](actions_and_filters.md)
+   * Helper
 
