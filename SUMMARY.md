@@ -8,5 +8,5 @@
 * [Shortcodes](shortcodes.md)
 * [Classes](classes.md)
    * [Glyphs](glyphs.md)
-   * Ajax
+   * [Ajax](ajax.md)
 
