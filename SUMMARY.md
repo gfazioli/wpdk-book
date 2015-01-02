@@ -7,7 +7,7 @@
 * [View and View Controller](view_and_view_controller.md)
 * [Shortcodes](shortcodes.md)
 * [Classes](classes.md)
-   * [Glyphs](glyphs.md)
    * [Ajax](ajax.md)
+   * [Glyphs](glyphs.md)
    * [Cron](cron.md)
 
