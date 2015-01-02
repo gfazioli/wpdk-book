@@ -9,5 +9,5 @@
 * [Classes](classes.md)
    * [Glyphs](glyphs.md)
    * [Ajax](ajax.md)
-   * Cron
+   * [Cron](cron.md)
 
