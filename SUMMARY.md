@@ -6,6 +6,6 @@
 * [Installing](installing.md)
 * [View and View Controller](view_and_view_controller.md)
 * [Shortcodes](shortcodes.md)
-* Classes
+* [Classes](classes.md)
    * [Glyphs](glyphs.md)
 
