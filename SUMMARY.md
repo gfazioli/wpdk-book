@@ -18,7 +18,7 @@
        * [Progress View](progress_view.md)
        * [Swipe UI Control](swipe_ui_control.md)
        * [Button Toggle UI Control](button_toggle_ui_control.md)
-   * Preferences
+   * [Preferences](preferences.md)
 * Javascript
    * [jQuery integration](jquery_integration.md)
    * [Actions and Filters](actions_and_filters.md)
