@@ -20,4 +20,5 @@
        * [Button Toggle UI Control](button_toggle_ui_control.md)
 * Javascript
    * [Actions and Filters](actions_and_filters.md)
+   * jQuery integration
 
