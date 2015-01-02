@@ -8,6 +8,7 @@
 * [Shortcodes](shortcodes.md)
 * [Classes](classes.md)
    * [Ajax](ajax.md)
+   * [Cron](cron.md)
    * [Glyphs](glyphs.md)
    * [Cron](cron.md)
 
