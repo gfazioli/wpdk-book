@@ -9,9 +9,9 @@
 * [Classes](classes.md)
    * [Ajax](ajax.md)
    * [Cron](cron.md)
-   * UI Components
-     * [Glyphs](glyphs.md)
-     * [List Table](list_table.md)
-       * [List Table Model](list_table_model.md)
-       * [List Table Database Model](list_table_database_model.md)
+   * [UI Components](ui_components.md)
+       * [Glyphs](glyphs.md)
+       * [List Table](list_table.md)
+           * [List Table Model](list_table_model.md)
+           * [List Table Database Model](list_table_database_model.md)
 
