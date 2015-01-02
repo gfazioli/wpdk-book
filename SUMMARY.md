@@ -17,6 +17,7 @@
        * [Table View](table_view.md)
        * [Progress View](progress_view.md)
        * [Swipe UI Control](swipe_ui_control.md)
+       * Button Toggle UI Control
 * Javascript
    * [Actions and Filters](actions_and_filters.md)
 
