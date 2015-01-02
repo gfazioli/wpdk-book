@@ -19,6 +19,6 @@
        * [Swipe UI Control](swipe_ui_control.md)
        * [Button Toggle UI Control](button_toggle_ui_control.md)
 * Javascript
-   * [Actions and Filters](actions_and_filters.md)
    * [jQuery integration](jquery_integration.md)
+   * [Actions and Filters](actions_and_filters.md)
 
