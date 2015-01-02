@@ -25,4 +25,5 @@
    * [Actions and Filters](actions_and_filters.md)
    * [Helper](helper.md)
 * How to
+   * The step by step guide to writing a WordPress plugin with full WPDK support
 
