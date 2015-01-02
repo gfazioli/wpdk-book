@@ -10,5 +10,5 @@
    * [Ajax](ajax.md)
    * [Cron](cron.md)
    * [Glyphs](glyphs.md)
-   * List Table
+   * [List Table](list_table.md)
 
