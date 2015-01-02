@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Overview](overview.md)
-* WPDK Features
+* [WPDK Features](wpdk_features.md)
 
