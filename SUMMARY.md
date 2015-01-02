@@ -11,5 +11,5 @@
    * [Cron](cron.md)
    * [Glyphs](glyphs.md)
    * [List Table](list_table.md)
-       * List Table Model
+       * [List Table Model](list_table_model.md)
 
