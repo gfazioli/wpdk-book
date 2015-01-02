@@ -7,5 +7,5 @@
 * [View and View Controller](view_and_view_controller.md)
 * [Shortcodes](shortcodes.md)
 * Classes
-   * Glyphs
+   * [Glyphs](glyphs.md)
 
