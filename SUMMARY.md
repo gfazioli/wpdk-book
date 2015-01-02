@@ -5,6 +5,8 @@
 * [WPDK Features](wpdk_features.md)
 * [Installing](installing.md)
 * [View and View Controller](view_and_view_controller.md)
+* How to
+   * [The step by step guide to writing a WordPress plugin with full WPDK support](the_step_by_step_guide_to_writing_a_wordpress_plugin_with_full_wpdk_support.md)
 * [Shortcodes](shortcodes.md)
 * [Classes](classes.md)
    * [Ajax](ajax.md)
@@ -24,6 +26,4 @@
    * [jQuery integration](jquery_integration.md)
    * [Actions and Filters](actions_and_filters.md)
    * [Helper](helper.md)
-* How to
-   * [The step by step guide to writing a WordPress plugin with full WPDK support](the_step_by_step_guide_to_writing_a_wordpress_plugin_with_full_wpdk_support.md)
 
