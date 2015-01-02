@@ -17,5 +17,5 @@
        * [Table View](table_view.md)
        * [Progress View](progress_view.md)
 * Javascript
-   * Actions and Filters
+   * [Actions and Filters](actions_and_filters.md)
 
