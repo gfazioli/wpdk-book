@@ -6,4 +6,5 @@
 * [Installing](installing.md)
 * [View and View Controller](view_and_view_controller.md)
 * [Shortcodes](shortcodes.md)
+* Classes
 
