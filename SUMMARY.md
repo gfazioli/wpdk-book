@@ -16,7 +16,7 @@
            * [List Table Database Model](list_table_database_model.md)
        * [Table View](table_view.md)
        * [Progress View](progress_view.md)
-       * Swipe UI Control
+       * [Swipe UI Control](swipe_ui_control.md)
 * Javascript
    * [Actions and Filters](actions_and_filters.md)
 
