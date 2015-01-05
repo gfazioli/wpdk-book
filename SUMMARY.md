@@ -18,7 +18,7 @@
            * [List Table Database Model](list_table_database_model.md)
        * [Table View](table_view.md)
        * [Progress View](progress_view.md)
-       * Switch UI Control
+       * [Switch UI Control](switch_ui_control.md)
        * [Swipe UI Control](swipe_ui_control.md)
        * [Button Toggle UI Control](button_toggle_ui_control.md)
    * [Preferences](preferences.md)
