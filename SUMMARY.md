@@ -12,6 +12,7 @@
    * [Ajax](ajax.md)
    * [Cron](cron.md)
    * [UI Components](ui_components.md)
+       * Switch UI Control
        * [Glyphs](glyphs.md)
        * [List Table](list_table.md)
            * [List Table Model](list_table_model.md)
@@ -26,5 +27,4 @@
    * [jQuery integration](jquery_integration.md)
    * [Actions and Filters](actions_and_filters.md)
    * [Helper](helper.md)
-* Switch UI Control
 
