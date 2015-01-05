@@ -12,13 +12,13 @@
    * [Ajax](ajax.md)
    * [Cron](cron.md)
    * [UI Components](ui_components.md)
-       * Switch UI Control
        * [Glyphs](glyphs.md)
        * [List Table](list_table.md)
            * [List Table Model](list_table_model.md)
            * [List Table Database Model](list_table_database_model.md)
        * [Table View](table_view.md)
        * [Progress View](progress_view.md)
+       * Switch UI Control
        * [Swipe UI Control](swipe_ui_control.md)
        * [Button Toggle UI Control](button_toggle_ui_control.md)
    * [Preferences](preferences.md)
